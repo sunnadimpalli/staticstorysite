@@ -2,6 +2,19 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+PLUGIN_PATHS = ['pelican-plugins']
+
+THEME = 'pelican-themes/pelican-bootstrap3'
+BOOTSTRAP_THEME = 'flatly'
+
+#PLUGIN_PATHS = ['pelican-plugins']
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+PLUGINS = [
+    'i18n_subsites'
+]
+
+I18N_TEMPLATES_LANG = 'en'
+
 AUTHOR = 'Sundar Nadimpalli'
 SITENAME = 'Stories by Sundar'
 SITEURL = ''
