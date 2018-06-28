@@ -30,7 +30,14 @@ AUTHOR = 'Sundar Nadimpalli'
 SITENAME = 'Stories by Sundar'
 SITEURL = ''
 
+# Paths
 PATH = 'content'
+PAGE_PATHS = ['pages']
+ARTICLE_PATHS = ['posts']
+
+# Top Menus
+DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
 
 TIMEZONE = 'America/Cancun'
 
