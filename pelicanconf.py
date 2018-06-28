@@ -17,8 +17,8 @@ PLUGINS = [
     'liquid_tags.notebook',
     'liquid_tags.include_code',
     'render_math',
-    'pelican-ipynb.markup',
-    'tipue_search'
+    'pelican-ipynb.markup'
+#    'tipue_search'
 ]
 
 # For Tipue Search Plugin
@@ -51,14 +51,13 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+#LINKS = (('Pelican', 'http://getpelican.com/'),
+#         ('Python.org', 'http://python.org/'),
+#         ('Jinja2', 'http://jinja.pocoo.org/'),
+#         ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'https://twitter.com/SunNadimpalli'),)
 
 DEFAULT_PAGINATION = 5
 
@@ -75,3 +74,5 @@ EXTRA_PATH_METADATA = {
     'extra/custom.js': {'path': 'static/js/custom.js'}
 }
 
+
+# S3 End Point = stories.sundarnadimpalli.com.s3-website.ca-central-1.amazonaws.com
