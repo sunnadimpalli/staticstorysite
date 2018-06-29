@@ -78,6 +78,8 @@ DISPLAY_TAGS_ON_SIDEBAR = False
 DISPLAY_CATEGORIES_ON_SIDEBAR = True
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
 
+SHOW_SERIES = True
+
 # S3 End Point = stories.sundarnadimpalli.com.s3-website.ca-central-1.amazonaws.com
 
 
