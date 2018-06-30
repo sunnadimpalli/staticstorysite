@@ -3,11 +3,11 @@ Date: 2018-06-19 21:55
 Modified: 2018-06-19 21:55
 Status: published
 Category: Poornima's Predicament
-Tags: story series
 Slug: pockets-of-pleasure
 Authors: Sundar Nadimpalli
 Series_index: 2
-Summary: Poornima begins her day with a run at the park near her house.
+Series_name: Poornima's Predicament
+Summary: Poornima's daily dose of joy.
 
 Standing there, tall and shiny in her pressed uniform and hat, she was causing quite a few heads to turn. She paid no attention to them and waited for her train. At exactly 1 minute past 9.00 AM, the train swept into the platform and stopped very close to where she was standing. The passenger doors opened and people began rushing out. Then people waiting on the platform rushed in. And then the driver's door opened too and the biggest guy in their division Big Mac stomped out carrying his lunch bag.   
   

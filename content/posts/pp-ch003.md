@@ -3,22 +3,17 @@ Date: 2018-06-21 21:55
 Modified: 2018-06-21 21:55
 Status: published
 Category: Poornima's Predicament
-Tags: story series
 Slug: discontent
 Authors: Sundar Nadimpalli
 Series_index: 3
-Summary: Poornima begins her day with a run at the park near her house.
-
-| Column Header | Second Column Header |
-| --- | --- |
-| Row 1 | Data 1 |
-| Row 2 | Data 2 |
+Series_name: Poornima's Predicament
+Summary: Poornima's meddlesome friends.
 
 
-----X----X----X----  
+--- 
 Suraj and she were walking down the Main Street, Poorni still in her uniform and Suraj in his pinstriped suit. Suraj worked as a financial analyst, and was on his way to become a team leader soon. Poorni admired Suraj's confidence in himself. When he walked into a room, people took notice. His walk had a certain majestic quality to it. He wielded his personal charm like a weapon and used it to break through to even the most reserved person in the room if he wanted to.   
 He loved to show off how lucky he was with everything in life. He always felt invincible. And that was the night he had disappeared from her life.   
-----X----X----X----  
+--- 
     
 Gomer had watched the train pull into the station when Poornima was driving it. He could see her face in the glow of the cabin light and he could see her face slowly turning sad as the train came to a halt. It was evident to him how much Poornima loved to drive. He thought that the driver's cabin was her dominion, and when she was on her shift she must feel that everything was manageable. It was like she was a different person in the cabin and a mere shadow of that person outside of it. He sensed how this fog of sadness took over her on her way away from the train station. He so much wanted to yank that soul crushing gloom from her person and burn it with a blow torch so all that would remain would be this happy beacon of a person that she was when inside the driver’s cabin.   
   

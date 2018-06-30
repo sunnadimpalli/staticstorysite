@@ -1,3 +1,3 @@
 # The Story Website built using Pelican - staticstorysite
 
-Host for the Pelican Code that builds the story site.
+This has been a long pending project. This is the pelican code files that generates my static website that I use to post my stories online.
