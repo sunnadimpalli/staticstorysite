@@ -5,8 +5,8 @@ Status: published
 Category: Poornima's Predicament
 Slug: discontent
 Authors: Sundar Nadimpalli
-Series_index: 3
-Series_name: Poornima's Predicament
+series_index: 3
+Series: Poornima's Predicament
 Summary: Poornima's meddlesome friends.
 
 

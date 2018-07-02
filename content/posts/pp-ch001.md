@@ -5,8 +5,8 @@ Status: published
 Category: Poornima's Predicament
 Slug: the-daily-grind
 Authors: Sundar Nadimpalli
-Series_index: 1
-Series_name: Poornima's Predicament
+series_index: 1
+Series: Poornima's Predicament
 Summary: Poornima begins her day with a run at the park near her house.
 
 Cautionary Note: This chapter contains some steamy parts. 

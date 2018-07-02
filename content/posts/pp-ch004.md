@@ -5,8 +5,8 @@ Status: published
 Category: Poornima's Predicament
 Slug: the-confrontation
 Authors: Sundar Nadimpalli
-Series_index: 4
-Series_name: Poornima's Predicament
+series_index: 4
+Series: Poornima's Predicament
 Summary: Poornima confronts Gomer.
 
 "Gomer, open the door", she yelled. "Open the door your bastard".   
