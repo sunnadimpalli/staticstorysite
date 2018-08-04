@@ -80,6 +80,8 @@ DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
 
 SHOW_SERIES = True
 
+GOOGLE_ANALYTICS = "UA-60336079-2"
+
 # S3 End Point = stories.sundarnadimpalli.com.s3-website.ca-central-1.amazonaws.com
 
 
